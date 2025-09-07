@@ -1,4 +1,4 @@
-# 🥚 **Egg Packaging Calculator**
+# 🥚 **Egg Packaging Planner**
 
 This program helps determine how to pack a given number of eggs into standard cartons efficiently. It’s designed to simulate a real-world **bulk packing scenario** for an egg production company.
 
@@ -42,7 +42,7 @@ This program takes the total number of eggs and calculates how many cartons of e
 
 ## 🏃 **How to Run**
 
-Download the **`EggPackagingCalculator.java`** file and run it using **Java**, or try it in any online Java compiler.
+Download the **`EggPackagingPlanner.java`** file and run it using **Java**, or try it in any online Java compiler.
 
 -----
 
@@ -78,7 +78,7 @@ Total cartons: 3
 
 ## 🎯 **Learning Outcomes**
 
-This project demonstrates:
+This program demonstrates:
 
   * Use of **user input** in Java (**Scanner**)
   * Application of **loops** and **modular arithmetic** to calculate cartons and leftovers
