@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EggPackagingCalculator {
+public class EggPackagingPlanner {
 
     public static void main(String[] args) {
 
@@ -44,3 +44,4 @@ public class EggPackagingCalculator {
     }
 
 }
+
