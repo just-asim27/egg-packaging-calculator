@@ -42,7 +42,7 @@ This program takes the total number of eggs and calculates how many cartons of e
 
 ## 🏃 **How to Run**
 
-Download the **`EggPackagingPlanner.java`** file and run it using **Java**, or try it in any online Java compiler.
+Download the **Egg Packaging Planner EXE installer** from the [GitHub Releases page](https://github.com/just-asim27/EggPackagingPlanner/releases).
 
 -----
 
