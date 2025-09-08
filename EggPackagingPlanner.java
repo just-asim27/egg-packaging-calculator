@@ -39,9 +39,13 @@ public class EggPackagingPlanner {
         // Total cartons used
         System.out.printf("Total cartons: %d%n", totalCartons);
 
+        userInput.nextLine();  // Clear leftover newline
+
+        System.out.print("\nPress Enter to exit...");
+        userInput.nextLine();  // Wait for Enter before exit
+
         userInput.close();
 
     }
 
 }
-
