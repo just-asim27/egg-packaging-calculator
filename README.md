@@ -42,7 +42,7 @@ This program takes the total number of eggs and calculates how many cartons of e
 
 ## 🏃 **How to Run**
 
-Download the **Egg Packaging Planner EXE installer** from the [GitHub Releases page](https://github.com/just-asim27/EggPackagingPlanner/releases).
+Download the **Egg Packaging Planner EXE installer** from the [GitHub Releases page](https://github.com/just-asim27/egg-packaging-planner/releases).
 
 -----
 
