@@ -80,10 +80,11 @@ Total cartons: 3
 
 This program demonstrates:
 
-  * Use of **user input** in Java (**Scanner**)
-  * Application of **loops** and **modular arithmetic** to calculate cartons and leftovers
-  * Writing **clean and readable code** with meaningful variable names and comments
-  * Practical **problem-solving** inspired by real-world logistics
+  * Use of **user input** in Java (**Scanner**) with **input validation** to manage invalid or unexpected values.
+  * Application of an **array**, **loops**, **conditionals**, and **modular arithmetic** to calculate cartons and leftovers efficiently.
+  * Allowing the user to repeat calculations for **multiple batches** within a single run.
+  * Writing **clean and readable code** with **meaningful variable names**, **section-based comments**, and **clear error messages**.
+  * Practical **problem-solving** inspired by real-world logistics.
 
 -----
 
